@@ -1,6 +1,7 @@
 # StockBuff-Stacked-temporal-and-sentiment-analysis-of-Stock-Market-Data
+• Data Mining project which finds market correlations to proactively predict stock market fluctuations using LSTM, mixed feature classifications and sentiment analysis.
 
-Definition
+• Have deployed LSTM for time series analysis, NLP features for Sentiment Analysis and used ensemble model to boost the model’s prediction performance in predicting a stock price of a company.
 
 
 ## StockBuff Model Directory and Loading
